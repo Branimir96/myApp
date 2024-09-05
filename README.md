@@ -1,0 +1,1 @@
+Osnovni test apliakcije
