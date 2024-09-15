@@ -2,7 +2,7 @@ import openai
 import os
 
 # Set up your OpenAI API key
-openai.api_key = 'org-5jbJpZWj9S2G7EMfnUf8Dt2'
+openai.api_key = 'org-5jbJpZWj9S2G7EMfnUf8Dt'
 
 # Function to call ChatGPT and get a response
 def call_chatgpt(prompt):
